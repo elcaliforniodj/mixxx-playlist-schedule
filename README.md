@@ -1,6 +1,3 @@
-This **README.md** file is designed to be clear and professional, perfect for your **elcalifornio** GitHub profile. It explains how to use the script for planning your salsa and bachata sets and gives other Mixxx users the technical details they need to get started.
-
----
 
 # Mixxx Playlist Scheduler
 
